@@ -7,6 +7,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=clark-ewerton&style=for-the-badge)
 
 * 🤖   I'm a Mid-Senior Test Automation Engineer
+* My personal website: https://clark-ewerton.github.io/sustain/
 <br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=clark-ewerton&hide=["prs","issues"])
