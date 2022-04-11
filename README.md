@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=clark-ewerton&style=for-the-badge)
 
-* 🤖   I'm a Mid-Senior QA Engineer
+* 🤖   I'm a Software QA Engineer
 
 <br />
 
