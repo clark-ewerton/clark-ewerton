@@ -11,7 +11,7 @@
 * 🔭 Currently working on improving test automation frameworks
 * 🌱 Learning more about CI/CD pipelines and performance testing
 * 💬 Ask me about: Cypress, Selenium, API testing
-* ⚡ Fun fact: I love solving quality puzzles in software
+* ⚡ Fun fact: Trips, food and work
 
 ### 🛠 Tech Stack
 
