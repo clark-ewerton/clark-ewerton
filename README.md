@@ -1,22 +1,39 @@
 ## Hi there, I'm Clark Ewerton 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clarkewerton/)](https://www.linkedin.com/in/clarkewerton/)
+[![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clarkewerton/)](https://www.linkedin.com/in/clarkewerton/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/clarkewerton)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@clarkewertonSilva)
 
-![Profile views](https://komarev.com/ghpvc/?username=clark-ewerton&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=clark-ewerton&style=for-the-badge&color=blue)
 
-* 🤖   I'm a Software QA Engineer
+### 👨‍💻 About Me
 
-<br />
+* 🧪 Software QA Engineer with focus on test automation
+* 🔭 Currently working on improving test automation frameworks
+* 🌱 Learning more about CI/CD pipelines and performance testing
+* 💬 Ask me about: Cypress, Selenium, API testing
+* ⚡ Fun fact: I love solving quality puzzles in software
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=clark-ewerton&hide=["prs","issues"])
+### 🛠 Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clark-ewerton)](https://github.com/anuraghazra/github-readme-stats)
+**Testing Tools:**  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-### Contacts
+**CI/CD:**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-- Email: clarkewerton@hotmail.com
+### 📊 GitHub Stats
 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
-+55 13 98819-5203
+![Github stats](https://github-readme-stats.vercel.app/api?username=clark-ewerton&show_icons=true&hide=["prs","issues"]&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clark-ewerton&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 How to reach me
+
+- 💼 LinkedIn: [clarkewerton](https://www.linkedin.com/in/clarkewerton/)
