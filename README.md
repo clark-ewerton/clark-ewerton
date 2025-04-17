@@ -8,10 +8,10 @@
 ### 👨‍💻 About Me
 
 * 🧪 Software QA Engineer with focus on test automation
-* 🔭 Currently working on improving test automation frameworks
+* 🔭 Currently working on being a better QA professional
 * 🌱 Learning more about CI/CD pipelines and performance testing
-* 💬 Ask me about: Cypress, Selenium, API testing
-* ⚡ Fun fact: Trips, food and work
+* 💬 Ask me about: Cypress, Selenium, API testing, QA area
+* ⚡ Fun fact: I speak three languages — one more and I’ll officially be a polyglot. Traveling is my favorite kind of testing: always full of real-world scenarios and unpredictable data.
 
 ### 🛠 Tech Stack
 
